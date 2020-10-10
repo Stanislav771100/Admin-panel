@@ -1,5 +1,6 @@
 .App {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .App-logo {
@@ -35,4 +36,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+.main {
+  width: 80%;
+  height: 1000px;
 }
