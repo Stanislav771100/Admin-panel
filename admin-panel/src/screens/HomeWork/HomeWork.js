@@ -14,7 +14,7 @@ class HomeWork extends Component {
 
   render() {
     return (
-        <div className="home-work-conteiner">
+        <div className="home-work-container">
             
         </div>
     )
