@@ -1,0 +1,19 @@
+.header {
+    width: 80%;
+    height: 80px;
+    background-color: dimgray;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header li {
+    display: inline-block;
+    font-weight: 600;
+}
+.header ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
